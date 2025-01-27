@@ -1,0 +1,305 @@
+2025-01-18T15:29:48.704Z [INFO]: Category created successfully: Laptops
+2025-01-18T15:30:10.705Z [INFO]: Category created successfully: Mobiles
+2025-01-18T15:30:46.979Z [INFO]: Category created successfully: Tablets
+2025-01-18T15:30:54.537Z [INFO]: Category created successfully: Headphones
+2025-01-18T15:31:04.464Z [INFO]: Category created successfully: Smartwatches
+2025-01-18T15:31:11.541Z [INFO]: Category created successfully: TVs
+2025-01-18T15:31:17.942Z [INFO]: Category created successfully: Cameras
+2025-01-18T15:31:28.511Z [INFO]: Category created successfully: Kitchen Appliances
+2025-01-18T15:31:39.307Z [INFO]: Category created successfully: Furniture
+2025-01-18T15:31:49.275Z [INFO]: Category created successfully: Sports & Outdoors
+2025-01-18T15:33:27.728Z [INFO]: Fetched 10 categories
+2025-01-18T15:34:54.406Z [INFO]: Fetched 10 categories
+2025-01-18T15:35:15.264Z [INFO]: Category with ID 2 updated successfully
+2025-01-18T15:35:26.368Z [INFO]: Fetched 10 categories
+2025-01-18T15:35:41.299Z [INFO]: Category with ID 2 updated successfully
+2025-01-18T15:35:41.753Z [INFO]: Category with ID 2 updated successfully
+2025-01-18T15:35:44.449Z [INFO]: Fetched 10 categories
+2025-01-18T15:36:02.833Z [INFO]: Category with ID 2 updated successfully
+2025-01-18T15:37:00.103Z [INFO]: Category with ID 2 deleted successfully
+2025-01-18T15:37:07.090Z [INFO]: Fetched 9 categories
+2025-01-18T15:42:25.979Z [INFO]: Category created successfully: Laptops
+2025-01-18T15:42:30.223Z [INFO]: Category created successfully: Mobiles
+2025-01-18T15:42:32.837Z [INFO]: Category created successfully: Tablets
+2025-01-18T15:42:34.579Z [INFO]: Category created successfully: Headphones
+2025-01-18T15:42:35.947Z [INFO]: Category created successfully: Smartwatches
+2025-01-18T15:42:37.459Z [INFO]: Category created successfully: TVs
+2025-01-18T15:42:38.853Z [INFO]: Category created successfully: Cameras
+2025-01-18T15:42:40.576Z [INFO]: Category created successfully: Kitchen Appliances
+2025-01-18T15:42:41.657Z [INFO]: Category created successfully:  Appliances
+2025-01-18T15:43:20.334Z [INFO]: Category created successfully: Sports & Outdoors
+2025-01-18T15:43:23.402Z [INFO]: Fetched 10 categories
+2025-01-18T15:43:52.070Z [INFO]: Category with ID 9 updated successfully
+2025-01-18T15:50:00.078Z [INFO]: Product created successfully: Dell XPS 13
+2025-01-18T15:50:11.991Z [INFO]: Product created successfully: MacBook Air
+2025-01-18T15:50:21.874Z [INFO]: Product created successfully: HP Spectre x360
+2025-01-18T15:50:30.501Z [INFO]: Product created successfully: iPhone 14
+2025-01-18T15:50:52.634Z [INFO]: Product created successfully: Samsung Galaxy S22
+2025-01-18T15:51:01.135Z [INFO]: Product created successfully: OnePlus 9 Pro
+2025-01-18T15:51:20.566Z [INFO]: Product created successfully: Apple iPad Pro
+2025-01-18T15:51:29.206Z [INFO]: Product created successfully: Apple iPad Pro
+2025-01-18T15:51:36.561Z [INFO]: Fetched 8 products from page 1
+2025-01-18T15:51:55.752Z [INFO]: Product created successfully: Samsung Galaxy Tab S7
+2025-01-18T15:52:49.495Z [INFO]: Product created successfully: Sony WH-1000XM4
+2025-01-18T15:53:01.275Z [INFO]: Product created successfully: Apple AirPods Pro
+2025-01-18T15:53:17.197Z [INFO]: Product created successfully: Apple Watch Series 7
+2025-01-18T15:53:25.888Z [INFO]: Product created successfully: Samsung Galaxy Watch 4
+2025-01-18T15:53:38.751Z [INFO]: Product created successfully: Samsung QLED 4K
+2025-01-18T15:53:53.931Z [INFO]: Product created successfully: Sony Xperia XP
+2025-01-18T15:54:03.063Z [INFO]: Product created successfully: LG OLED 55" TV
+2025-01-18T15:54:20.261Z [INFO]: Product created successfully: Canon EOS R5
+2025-01-18T15:54:30.257Z [INFO]: Product created successfully: Sony Alpha A7 III
+2025-01-18T15:54:37.669Z [INFO]: Product created successfully: KitchenAid Stand Mixer
+2025-01-18T15:54:49.173Z [INFO]: Product created successfully: Ninja Foodi Pressure Cooker
+2025-01-18T15:55:15.922Z [INFO]: Category with ID 9 updated successfully
+2025-01-18T15:55:19.604Z [INFO]: Fetched 10 categories
+2025-01-18T15:55:48.326Z [INFO]: Product created successfully: IKEA Hemnes Bed
+2025-01-18T15:55:57.173Z [INFO]: Product created successfully: AmazonBasics Office Chair
+2025-01-18T15:56:29.064Z [INFO]: Product created successfully: AmazonBasics Office Chair
+2025-01-18T15:56:37.224Z [INFO]: Product created successfully: Adidas Basketball
+2025-01-18T15:57:40.665Z [INFO]: Product created successfully: Lenovo ThinkPad X1
+2025-01-18T15:57:50.062Z [INFO]: Product created successfully: Acer Predator Helios
+2025-01-18T15:57:58.401Z [INFO]: Product created successfully: Microsoft Surface Laptop
+2025-01-18T15:58:06.382Z [INFO]: Product created successfully: Asus ZenBook
+2025-01-18T15:58:14.716Z [INFO]: Product created successfully: Razer Blade 15
+2025-01-18T16:10:39.070Z [INFO]: Product created successfully: Google Pixel 8
+2025-01-18T16:10:47.269Z [INFO]: Product created successfully: OnePlus 11
+2025-01-18T16:10:56.111Z [INFO]: Product created successfully: Xiaomi Redmi Note 12
+2025-01-18T16:15:29.976Z [INFO]: Product created successfully: Oppo Reno 8
+2025-01-18T16:15:37.200Z [INFO]: Product created successfully: Vivo V25
+2025-01-18T16:15:44.445Z [INFO]: Product created successfully: Realme GT Neo 5
+2025-01-18T16:16:05.857Z [INFO]: Product created successfully: Microsoft Surface Go 3
+2025-01-18T16:16:13.045Z [INFO]: Product created successfully: Amazon Fire HD 10
+2025-01-18T16:16:20.943Z [INFO]: Product created successfully: Lenovo Tab P11
+2025-01-18T16:16:28.181Z [INFO]: Product created successfully: Asus ROG Flow Z13
+2025-01-18T16:16:35.948Z [INFO]: Product created successfully: Xiaomi Pad 6
+2025-01-18T16:16:43.630Z [INFO]: Product created successfully: Huawei MatePad Pro
+2025-01-18T16:18:05.117Z [INFO]: Product created successfully: Bose QuietComfort 45
+2025-01-18T16:18:14.606Z [INFO]: Product created successfully: Sennheiser Momentum 4
+2025-01-18T16:18:30.351Z [INFO]: Product created successfully: JBL Tune 750BTNC
+2025-01-18T16:18:51.707Z [INFO]: Product created successfully: Beats Solo Pro
+2025-01-18T16:19:05.378Z [INFO]: Product created successfully: Skullcandy Crusher Evo
+2025-01-18T16:19:13.663Z [INFO]: Product created successfully: Anker Soundcore Life Q35
+2025-01-18T16:20:43.929Z [INFO]: Fetched 10 products from page 1
+2025-01-18T16:21:40.111Z [INFO]: Product with ID 8 updated successfully
+2025-01-18T16:21:43.418Z [INFO]: Fetched 10 products from page 1
+2025-01-18T16:21:59.003Z [INFO]: Product created successfully: Garmin Fenix 7
+2025-01-18T16:22:05.504Z [INFO]: Product created successfully: Fitbit Versa 4
+2025-01-18T16:58:57.723Z [INFO]: Fetched 10 products from page 1
+2025-01-18T17:00:49.464Z [INFO]: Fetched 10 categories
+2025-01-18T17:00:49.477Z [INFO]: Fetched 10 products from page 1
+2025-01-18T17:39:30.457Z [INFO]: Fetched 10 categories
+2025-01-18T17:42:44.460Z [INFO]: Fetched 10 categories
+2025-01-18T17:43:28.106Z [INFO]: Fetched 10 categories
+2025-01-18T17:52:35.493Z [INFO]: Fetched 10 categories
+2025-01-18T17:53:38.724Z [INFO]: Fetched 10 categories
+2025-01-18T17:55:04.556Z [INFO]: Fetched 10 categories
+2025-01-18T17:55:30.694Z [INFO]: Fetched 10 categories
+2025-01-18T17:55:33.486Z [INFO]: Fetched 10 categories
+2025-01-18T17:56:35.911Z [INFO]: Fetched 10 categories
+2025-01-18T17:57:04.630Z [INFO]: Fetched 10 categories
+2025-01-18T17:57:05.653Z [INFO]: Fetched 10 categories
+2025-01-18T17:57:11.446Z [INFO]: Category created successfully: tables
+2025-01-18T17:57:11.455Z [INFO]: Fetched 11 categories
+2025-01-18T17:57:17.350Z [INFO]: Fetched 11 categories
+2025-01-18T17:57:26.351Z [INFO]: Fetched 11 categories
+2025-01-18T17:57:29.834Z [INFO]: Fetched 11 categories
+2025-01-18T17:57:37.482Z [INFO]: Fetched 11 categories
+2025-01-18T17:59:14.762Z [INFO]: Fetched 11 categories
+2025-01-18T17:59:16.674Z [INFO]: Fetched 11 categories
+2025-01-18T17:59:52.034Z [INFO]: Fetched 11 categories
+2025-01-18T17:59:52.863Z [INFO]: Fetched 11 categories
+2025-01-18T17:59:57.080Z [INFO]: Category created successfully: tables
+2025-01-18T17:59:57.089Z [INFO]: Fetched 12 categories
+2025-01-18T18:00:13.932Z [INFO]: Fetched 12 categories
+2025-01-18T18:01:20.139Z [INFO]: Fetched 12 categories
+2025-01-18T18:01:21.250Z [INFO]: Fetched 12 categories
+2025-01-18T18:01:24.157Z [INFO]: Fetched 12 categories
+2025-01-18T18:02:13.571Z [INFO]: Fetched 12 categories
+2025-01-18T18:02:17.274Z [INFO]: Fetched 12 categories
+2025-01-18T18:02:17.526Z [INFO]: Fetched 12 categories
+2025-01-18T18:02:49.652Z [INFO]: Fetched 12 categories
+2025-01-18T18:02:58.750Z [INFO]: Fetched 12 categories
+2025-01-18T18:06:57.122Z [INFO]: Fetched 12 categories
+2025-01-18T18:08:29.467Z [INFO]: Fetched 12 categories
+2025-01-18T18:08:56.428Z [INFO]: Fetched 10 products from page 1
+2025-01-18T18:09:23.745Z [INFO]: Fetched 12 categories
+2025-01-18T18:10:24.135Z [INFO]: Fetched 12 categories
+2025-01-18T18:10:24.559Z [INFO]: Fetched 12 categories
+2025-01-18T18:10:39.800Z [INFO]: Fetched 12 categories
+2025-01-18T18:10:53.139Z [INFO]: Fetched 12 categories
+2025-01-18T18:10:57.030Z [INFO]: Fetched 12 categories
+2025-01-18T18:10:58.557Z [INFO]: Fetched 12 categories
+2025-01-18T18:10:58.853Z [INFO]: Fetched 12 categories
+2025-01-18T18:11:10.461Z [INFO]: Fetched 12 categories
+2025-01-18T18:11:18.822Z [INFO]: Fetched 12 categories
+2025-01-18T18:11:19.695Z [INFO]: Fetched 12 categories
+2025-01-18T18:11:39.132Z [INFO]: Fetched 12 categories
+2025-01-18T18:11:40.746Z [INFO]: Fetched 12 categories
+2025-01-18T18:12:15.106Z [INFO]: Fetched 12 categories
+2025-01-18T18:12:19.021Z [INFO]: Fetched 12 categories
+2025-01-18T18:12:26.045Z [INFO]: Category with ID 11 deleted successfully
+2025-01-18T18:12:26.081Z [INFO]: Fetched 11 categories
+2025-01-18T18:12:27.832Z [ERROR]: Failed to delete category: update or delete on table "Categories" violates foreign key constraint "Products_categoryId_fkey" on table "Products"
+2025-01-18T18:12:27.840Z [INFO]: Fetched 11 categories
+2025-01-18T18:12:31.080Z [INFO]: Category with ID 12 deleted successfully
+2025-01-18T18:12:31.089Z [INFO]: Fetched 10 categories
+2025-01-18T18:12:37.962Z [INFO]: Fetched 10 categories
+2025-01-18T18:15:50.610Z [INFO]: Fetched 10 categories
+2025-01-18T18:15:54.303Z [INFO]: Fetched 10 categories
+2025-01-18T18:16:07.573Z [INFO]: Fetched 10 categories
+2025-01-18T18:16:13.517Z [INFO]: Fetched 10 categories
+2025-01-18T18:18:56.702Z [INFO]: Fetched 10 categories
+2025-01-18T18:18:58.767Z [INFO]: Fetched 10 categories
+2025-01-18T18:18:58.772Z [INFO]: Fetched 10 products from page 1
+2025-01-18T18:19:03.319Z [INFO]: Fetched 10 categories
+2025-01-18T18:19:03.322Z [INFO]: Fetched 10 products from page 1
+2025-01-18T18:19:14.035Z [INFO]: Fetched 10 categories
+2025-01-18T18:19:14.039Z [INFO]: Fetched 10 products from page 1
+2025-01-18T18:19:20.942Z [INFO]: Fetched 10 categories
+2025-01-18T18:19:20.950Z [INFO]: Fetched 10 products from page 1
+2025-01-18T18:20:07.275Z [INFO]: Fetched 10 categories
+2025-01-18T18:20:07.280Z [INFO]: Fetched 10 products from page 1
+2025-01-18T18:20:08.890Z [INFO]: Fetched 10 categories
+2025-01-18T18:20:08.892Z [INFO]: Fetched 10 products from page 1
+2025-01-18T18:20:11.137Z [INFO]: Fetched 10 categories
+2025-01-18T18:20:13.268Z [INFO]: Fetched 10 categories
+2025-01-18T18:20:36.286Z [INFO]: Fetched 10 categories
+2025-01-18T18:20:38.700Z [INFO]: Fetched 10 categories
+2025-01-18T18:20:38.705Z [INFO]: Fetched 10 products from page 1
+2025-01-18T18:21:46.218Z [INFO]: Fetched 10 categories
+2025-01-18T18:21:46.219Z [INFO]: Fetched 10 products from page 1
+2025-01-18T18:21:47.835Z [INFO]: Fetched 10 categories
+2025-01-18T18:21:47.837Z [INFO]: Fetched 10 products from page 1
+2025-01-18T18:21:48.058Z [INFO]: Fetched 10 products from page 1
+2025-01-18T18:21:48.060Z [INFO]: Fetched 10 categories
+2025-01-18T18:23:01.075Z [INFO]: Fetched 10 categories
+2025-01-18T18:23:01.076Z [INFO]: Fetched 10 products from page 1
+2025-01-18T18:23:09.476Z [INFO]: Fetched 10 categories
+2025-01-18T18:23:09.480Z [INFO]: Fetched 10 products from page 1
+2025-01-18T18:24:47.182Z [INFO]: Fetched 10 categories
+2025-01-18T18:24:47.185Z [INFO]: Fetched 10 products from page 1
+2025-01-18T18:25:10.001Z [INFO]: Fetched 10 categories
+2025-01-18T18:25:10.004Z [INFO]: Fetched 10 products from page 1
+2025-01-18T18:25:30.448Z [INFO]: Fetched 10 categories
+2025-01-18T18:25:30.452Z [INFO]: Fetched 10 products from page 1
+2025-01-18T18:26:09.110Z [INFO]: Fetched 10 categories
+2025-01-18T18:26:09.112Z [INFO]: Fetched 10 products from page 1
+2025-01-18T18:26:09.740Z [INFO]: Fetched 10 categories
+2025-01-18T18:26:09.745Z [INFO]: Fetched 10 products from page 1
+2025-01-18T18:26:28.285Z [INFO]: Fetched 10 products from page 2
+2025-01-18T18:26:30.982Z [INFO]: Fetched 10 products from page 2
+2025-01-18T18:26:30.985Z [INFO]: Fetched 10 categories
+2025-01-18T18:26:33.915Z [INFO]: Fetched 10 products from page 3
+2025-01-18T18:26:36.380Z [INFO]: Fetched 10 products from page 2
+2025-01-18T18:26:46.833Z [INFO]: Fetched 10 categories
+2025-01-18T18:26:46.838Z [INFO]: Fetched 10 products from page 2
+2025-01-18T18:27:01.509Z [INFO]: Fetched 10 categories
+2025-01-18T18:27:01.513Z [INFO]: Fetched 10 products from page 2
+2025-01-18T18:27:03.450Z [INFO]: Fetched 10 categories
+2025-01-18T18:27:03.461Z [INFO]: Fetched 10 products from page 2
+2025-01-18T18:27:07.786Z [INFO]: Fetched 10 categories
+2025-01-18T18:27:07.790Z [INFO]: Fetched 10 products from page 2
+2025-01-18T18:27:27.905Z [INFO]: Fetched 10 categories
+2025-01-18T18:27:27.911Z [INFO]: Fetched 10 products from page 2
+2025-01-18T18:27:48.634Z [INFO]: Fetched 10 categories
+2025-01-18T18:27:48.640Z [INFO]: Fetched 10 products from page 2
+2025-01-18T18:29:02.258Z [INFO]: Fetched 10 categories
+2025-01-18T18:29:02.263Z [INFO]: Fetched 10 products from page 2
+2025-01-18T18:29:07.489Z [INFO]: Fetched 10 products from page 1
+2025-01-18T18:29:43.478Z [INFO]: Fetched 10 categories
+2025-01-18T18:29:43.480Z [INFO]: Fetched 10 products from page 1
+2025-01-18T18:29:49.288Z [INFO]: Fetched 10 products from page 1
+2025-01-18T18:29:49.290Z [INFO]: Fetched 10 categories
+2025-01-18T18:29:51.818Z [INFO]: Fetched 10 products from page 1
+2025-01-18T18:29:51.825Z [INFO]: Fetched 10 categories
+2025-01-18T18:30:33.425Z [INFO]: Fetched 10 products from page 1
+2025-01-18T18:30:33.427Z [INFO]: Fetched 10 categories
+2025-01-18T18:30:39.306Z [INFO]: Fetched 10 products from page 2
+2025-01-18T18:30:40.341Z [INFO]: Fetched 10 products from page 3
+2025-01-18T18:30:41.068Z [INFO]: Fetched 10 products from page 4
+2025-01-18T18:30:43.234Z [INFO]: Fetched 9 products from page 5
+2025-01-18T18:30:44.935Z [INFO]: Fetched 0 products from page 6
+2025-01-18T18:30:47.048Z [INFO]: Fetched 9 products from page 5
+2025-01-18T18:31:32.041Z [INFO]: Fetched 10 categories
+2025-01-18T18:31:32.047Z [INFO]: Fetched 9 products from page 5
+2025-01-18T18:31:36.340Z [INFO]: Fetched 10 categories
+2025-01-18T18:31:36.345Z [INFO]: Fetched 9 products from page 5
+2025-01-18T18:31:41.575Z [INFO]: Fetched 10 categories
+2025-01-18T18:31:41.593Z [INFO]: Fetched 9 products from page 5
+2025-01-18T18:32:03.919Z [INFO]: Fetched 10 categories
+2025-01-18T18:32:03.923Z [INFO]: Fetched 9 products from page 5
+2025-01-18T18:32:06.780Z [INFO]: Fetched 10 categories
+2025-01-18T18:32:06.784Z [INFO]: Fetched 9 products from page 5
+2025-01-18T18:32:24.545Z [INFO]: Fetched 10 categories
+2025-01-18T18:32:24.549Z [INFO]: Fetched 9 products from page 5
+2025-01-18T18:32:33.331Z [INFO]: Fetched 10 categories
+2025-01-18T18:32:33.338Z [INFO]: Fetched 9 products from page 5
+2025-01-18T18:32:44.209Z [INFO]: Fetched 10 categories
+2025-01-18T18:32:44.212Z [INFO]: Fetched 9 products from page 5
+2025-01-18T18:32:48.777Z [INFO]: Fetched 10 categories
+2025-01-18T18:32:48.780Z [INFO]: Fetched 9 products from page 5
+2025-01-18T18:32:50.382Z [INFO]: Fetched 10 categories
+2025-01-18T18:32:50.387Z [INFO]: Fetched 9 products from page 5
+2025-01-18T18:32:54.423Z [INFO]: Fetched 10 categories
+2025-01-18T18:32:54.427Z [INFO]: Fetched 9 products from page 5
+2025-01-18T18:32:59.430Z [INFO]: Fetched 10 categories
+2025-01-18T18:32:59.434Z [INFO]: Fetched 9 products from page 5
+2025-01-18T18:33:03.921Z [INFO]: Fetched 0 products from page 6
+2025-01-18T18:33:05.674Z [INFO]: Fetched 9 products from page 5
+2025-01-18T18:33:07.809Z [INFO]: Fetched 10 products from page 4
+2025-01-18T18:33:09.737Z [INFO]: Fetched 10 products from page 3
+2025-01-18T18:33:10.785Z [INFO]: Fetched 10 products from page 2
+2025-01-18T18:33:11.681Z [INFO]: Fetched 10 products from page 1
+2025-01-18T18:33:27.382Z [INFO]: Product with ID 1 updated successfully
+2025-01-18T18:33:27.393Z [INFO]: Fetched 10 products from page 1
+2025-01-18T18:33:46.531Z [INFO]: Fetched 10 categories
+2025-01-18T18:33:46.532Z [INFO]: Fetched 10 products from page 1
+2025-01-18T18:34:09.790Z [INFO]: Fetched 10 products from page 1
+2025-01-18T18:34:09.792Z [INFO]: Fetched 10 categories
+2025-01-18T18:34:16.985Z [INFO]: Fetched 10 categories
+2025-01-18T18:34:16.987Z [INFO]: Fetched 10 products from page 1
+2025-01-18T18:34:18.569Z [INFO]: Fetched 10 products from page 1
+2025-01-18T18:34:18.571Z [INFO]: Fetched 10 categories
+2025-01-18T18:34:20.218Z [INFO]: Fetched 10 products from page 1
+2025-01-18T18:34:20.220Z [INFO]: Fetched 10 categories
+2025-01-18T18:37:18.902Z [INFO]: Fetched 10 categories
+2025-01-18T18:37:18.905Z [INFO]: Fetched 10 products from page 1
+2025-01-18T18:37:20.544Z [INFO]: Fetched 10 categories
+2025-01-18T18:37:20.545Z [INFO]: Fetched 10 products from page 1
+2025-01-18T18:37:29.669Z [INFO]: Product with ID 2 updated successfully
+2025-01-18T18:37:29.679Z [INFO]: Fetched 10 products from page 1
+2025-01-18T18:38:16.296Z [INFO]: Fetched 10 products from page 1
+2025-01-18T18:38:16.297Z [INFO]: Fetched 10 categories
+2025-01-18T18:38:22.004Z [INFO]: Fetched 10 categories
+2025-01-18T18:38:22.008Z [INFO]: Fetched 10 products from page 1
+2025-01-18T18:38:34.840Z [INFO]: Fetched 10 products from page 1
+2025-01-18T18:38:34.843Z [INFO]: Fetched 10 categories
+2025-01-18T18:38:36.857Z [INFO]: Fetched 10 categories
+2025-01-18T18:38:50.050Z [ERROR]: Failed to delete category: update or delete on table "Categories" violates foreign key constraint "Products_categoryId_fkey" on table "Products"
+2025-01-18T18:38:50.054Z [INFO]: Fetched 10 categories
+2025-01-18T18:38:53.110Z [ERROR]: Failed to delete category: update or delete on table "Categories" violates foreign key constraint "Products_categoryId_fkey" on table "Products"
+2025-01-18T18:38:53.118Z [INFO]: Fetched 10 categories
+2025-01-18T18:39:02.321Z [INFO]: Fetched 10 categories
+2025-01-18T18:39:02.540Z [ERROR]: Failed to delete category: update or delete on table "Categories" violates foreign key constraint "Products_categoryId_fkey" on table "Products"
+2025-01-18T18:39:02.546Z [INFO]: Fetched 10 categories
+2025-01-18T18:39:07.594Z [INFO]: Fetched 10 products from page 1
+2025-01-18T18:39:07.597Z [INFO]: Fetched 10 categories
+2025-01-18T18:39:10.194Z [INFO]: Fetched 10 products from page 2
+2025-01-18T18:39:10.405Z [INFO]: Product with ID 21 deleted successfully
+2025-01-18T18:39:10.411Z [INFO]: Fetched 10 products from page 2
+2025-01-18T18:39:12.590Z [INFO]: Product with ID 22 deleted successfully
+2025-01-18T18:39:12.596Z [INFO]: Fetched 10 products from page 2
+2025-01-18T18:39:15.823Z [INFO]: Product with ID 23 deleted successfully
+2025-01-18T18:39:15.833Z [INFO]: Fetched 10 products from page 2
+2025-01-18T18:39:19.817Z [INFO]: Fetched 10 products from page 3
+2025-01-18T18:39:20.037Z [INFO]: Product with ID 34 deleted successfully
+2025-01-18T18:39:20.043Z [INFO]: Fetched 10 products from page 3
+2025-01-18T18:39:21.855Z [INFO]: Fetched 10 products from page 4
+2025-01-18T18:39:23.548Z [INFO]: Fetched 5 products from page 5
+2025-01-18T18:39:25.729Z [INFO]: Fetched 0 products from page 6
+2025-01-18T18:39:27.211Z [INFO]: Fetched 5 products from page 5
+2025-01-18T18:39:29.095Z [INFO]: Fetched 10 categories
+2025-01-18T18:39:31.255Z [INFO]: Category with ID 9 deleted successfully
+2025-01-18T18:39:31.260Z [INFO]: Fetched 9 categories
+2025-01-18T18:39:41.655Z [INFO]: Fetched 9 categories
